@@ -30,3 +30,10 @@ for (size_t j = 0; j < nB; ++j) {
 }
 
 `
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
