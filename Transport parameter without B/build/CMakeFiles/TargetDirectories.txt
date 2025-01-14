@@ -1,0 +1,3 @@
+/home/asmaa/work/garfield/garfieldpp_src/Examples/test/build/CMakeFiles/rebuild_cache.dir
+/home/asmaa/work/garfield/garfieldpp_src/Examples/test/build/CMakeFiles/edit_cache.dir
+/home/asmaa/work/garfield/garfieldpp_src/Examples/test/build/CMakeFiles/Weight.dir
