@@ -9,7 +9,8 @@ Drift Velocity
 note:all the transport including E are in linear 
 this simple program make the output of the work of Yasser Assran, Archana Sharma
 Transport Properties of operational gas mixtures used at LHC
-`//If you want the B magnetic field and the angle to be included in the simulations 
+`
+//If you want the B magnetic field and the angle to be included in the simulations 
 for (size_t j = 0; j < nB; ++j) {
   for (size_t k = 0; k < nA; ++k) {
     std::cout << "B = " << bfields[j] << " T, theta = "
@@ -27,9 +28,5 @@ for (size_t j = 0; j < nB; ++j) {
     }
   }
 }
-
-
-
-
 
 `
